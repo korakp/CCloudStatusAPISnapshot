@@ -75,7 +75,7 @@
                 {
                     "id": "jd1zshrg8qwn",
                     "status": "resolved",
-                    "body": "This incident has been resolved.",
+                    "body": "We have identified partial connection issues in Azure North Europe region.",
                     "incident_id": "plvt310blgnk",
                     "created_at": "2021-11-08T22:28:11.077Z",
                     "updated_at": "2021-11-08T22:28:11.077Z",
@@ -127,7 +127,7 @@
                 {
                     "id": "64nr17bfcp8y",
                     "status": "resolved",
-                    "body": "This incident has been resolved.",
+                    "body": "We have identified that some customers may experience higher latency during logins to Confluent Cloud. We are working on a fix.",
                     "incident_id": "12gbv3zssbrd",
                     "created_at": "2021-10-25T12:26:52.326Z",
                     "updated_at": "2021-10-25T12:27:19.763Z",
